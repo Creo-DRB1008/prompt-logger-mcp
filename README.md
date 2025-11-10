@@ -27,7 +27,7 @@ A Model Context Protocol (MCP) server that logs your Cursor AI chat interactions
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cursor-notion-mcp.git
+git clone https://github.com/Creo-DRB1008/prompt-logger-mcp.git
 cd cursor-notion-mcp
 ```
 
